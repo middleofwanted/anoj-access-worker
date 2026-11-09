@@ -1,0 +1,4 @@
+Source: https://github.com/lipis/flag-icons
+Directory: flags/4x3
+Commit: ac7e0eb3259eb62aa6100c435607e2fe03896a97
+License: MIT; see flag-icons-LICENSE.txt
