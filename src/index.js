@@ -126,7 +126,7 @@ export default {
   </head>
   <body>
     <h1>Cloudflare Access Demo</h1>
-    <p>${email} authenticated at ${timestamp} from ${countryHtml}</p>
+    <p>${email} authenticated at ${timestamp} (UTC) from ${countryHtml}</p>
   </body>
 </html>`,
       {
