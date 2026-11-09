@@ -1,0 +1,19 @@
+{
+  "name": "anoj-access-worker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-plugin": "^1.4.3",
+    "vitest": "~5.0.3",
+    "wrangler": "^4.158.0"
+  },
+  "dependencies": {
+    "jose": "^6.2.16"
+  }
+}
